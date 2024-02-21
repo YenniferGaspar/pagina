@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;700;800&display=swap');
+
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     text-decoration: none;
+     list-style: none;
+}
+
+body {
+     background-color: #ffffff;
+     font-family: 'Poppins', sans-serif;
+}
+
+body {
+     display: flex;
+     flex-wrap: wrap;
+     font-family: 'Segoe UI', Tahoma, Arial, Helvetica, sans-serif, Verdana, sans-serif;
+     line-height: 1.5;
+}
+
+.header-patio {
+     width: 70%;
+     padding: 2rem;
+     display: flex;
+     flex-wrap: wrap;
+     flex-direction: column;
+}
+
+header {
+     width: 100%;
+     padding: 1rem 1;
+     background-color: #07294d;
+     color: #817f7f;
+
+}
+
+header a {
+     color: white;
+     text-decoration: none;
+     margin: 0 1rem;
+     padding: 10;
+}
+
+
+.header {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+}
+
+.header-logo {
+     width: 65%;
+     padding: 1rem 0;
+}
+
+
+.header-logo img {
+     width: 50%;
+}
+
+.header-logo img {
+     margin-right: 120px;
+     width: 240px;
+     text-align: center;
+}
+
+section {
+     width: 70%;
+     padding: 2rem;
+     display: flex;
+     flex-wrap: wrap;
+     flex-direction: column;
+}
+
+.content {
+     width: 100%;
+     padding: 1rem 0;
+     color: #000000;
+     background-color: #ffffff;
+     font-size: 35px;
+     font-weight: 800;
+     display: flex;
+     text-align: center;
+}
+
+.header-inicio img {
+     width: 50%;
+}
+
+.header-inicio img {
+     margin-right: 250px;
+     width: 500px;
+     align-content: center;
+}
+
+.content-2 {
+     width: 100%;
+     padding: 1rem 15;
+     color: #000000;
+     background-color: #ffffff;
+     font-size: 16px;
+     color: #f40c0ce6;
+}
+
+.header-h2 {
+     width: 100%;
+     padding: 2rem 2;
+     color: #000000;
+     background-color: #ffffff;
+     font-size: 20px;
+     color: #f40c0ce6;
+     text-align: center;
+     flex-wrap: wrap;
+}
+
+.content-3 {
+     width: 100%;
+     padding: 1rem 15;
+     background-color: #ffffff;
+     font-size: 16px;
+     color: rgb(6, 31, 255);
+}
+
+.header-h3 {
+     width: 100%;
+     padding: 1rem 15;
+     color: rgb(6, 31, 255);
+     text-align: center;
+     font-size: 25px;
+     font-weight: 800;
+     text-align: initial;
+}
+
+.header-historia img {
+     width: 50%;
+}
+
+.header-historia img {
+     margin-right: 100px;
+     width: 200px;
+     position: unset;
+     text-align: justify;
+}
+
+.contact-highlight {
+     margin-bottom: 1em;
+}
+
+.contact-highlight p {
+     margin: 0;
+}
+
+.content-2 {
+     width: 100%;
+     padding: 1rem 1;
+     color: #000000;
+     justify-content: center;
+     align-items: center;
+}
+
+.content-3 {
+     width: 100%;
+     padding: 1rem 50;
+     color: #000000;
+     justify-content: center;
+     align-items: center;
+}
+
+.header-historia img {
+     width: 50%;
+}
+
+.header-historia img {
+     margin-right: 100px;
+     width: 200px;
+     text-align: end;
+}
+
+.header-4 {
+     width: 100%;
+     padding: 2rem 2;
+     color: #000000;
+     justify-content: center;
+     align-items: center;
+}
+
+.header-h4 {
+     width: 100%;
+     padding: 2rem 2;
+     color: #f40c0ce6;
+     justify-content: center;
+     align-items: center;
+     font-size: 40px;
+     font-weight: 1200;
+     margin-bottom: 1px;
+}
+
+.header-span {
+     width: 100%;
+     padding: 1rem 1;
+     color: #644b0d;
+     justify-content: center;
+     align-items: center;
+     font-size: 30px;
+     font-weight: 800;
+     margin-bottom: 1px;
+}
+
+.header-spann {
+     width: 100%;
+     padding: 1rem 1;
+     color: #644b0d;
+     justify-content: center;
+     align-items: center;
+     font-size: 30px;
+     font-weight: 800;
+     margin-bottom: 1px;
+}
+
+.leer-mas {
+     width: 100%;
+     padding: 2rem 2;
+     color: rgb(0, 0, 0);
+}
+
+.h5 {
+     width: 100%;
+     padding: 1rem 1;
+     color: #000000;
+     justify-content: center;
+     align-items: center;
+     font-size: 35px;
+     font-weight: 800;
+     margin-bottom: 1px;
+}
+
+
+.header5 {
+     width: 100%;
+     padding: 1rem 1;
+     color: #000000;
+     font-size: 15px;
+     font-weight: 500;
+     margin-bottom: 1px;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+}
+
+.www {
+     width: 100%;
+     padding: 1rem 1;
+     color: #000000;
+     background-color: #07294d;
+     justify-content: center;
+     align-items: center;
+}
+
+.header-logou img {
+     width: 50%;
+}
+
+.header-logou img {
+     margin-right: 250px;
+     width: 500px;
+     text-align: center;
+}
+
+.contact-info-section {
+     width: 100%;
+     padding: 1rem 1;
+     background-color: #07294d;
+     color: #ffffff;
+}
